@@ -24,7 +24,12 @@ The above command allows you to go to your web browser, type in your local host 
 
 
 
-
+> * init a new GH repo on g/h
+>   
+>   * new repo
+>   * use their suggested name
+>   * options: choose: add readme, public, gitignore template = node, licence = gpl 3.0
+>   * click big green
 
 
 
