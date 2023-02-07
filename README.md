@@ -1,4 +1,4 @@
-# OSCAR
+# How to Git
 
 Cool
 
