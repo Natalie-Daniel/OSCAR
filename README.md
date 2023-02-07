@@ -5,7 +5,14 @@
 
 
 
-# Cloning and Committing to Repo
+# Cloning and Navigating 
+
+>* Step 1: Copy Repo URL and use the `git clone` command to create a directory for git command use.
+
+>* Step 2: `cd` into the correct directory where your git clone created the directory.
+
+>* Step 3: Use `git status` to see which files have been edited and can be added for commit.
+
 
 
 
