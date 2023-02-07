@@ -1,7 +1,7 @@
 # Git Basics
 
 # Prep Work
-First and foremost go to https://nodejs.org/en/  to download node.
+>* Step 1: First and foremost go to https://nodejs.org/en/  to download node.
 Click the big green button that contains the letters: LTS (the one recommended for most users)
 Save
 Open that file
