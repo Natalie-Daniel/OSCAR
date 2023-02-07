@@ -2,7 +2,7 @@
 
 # Prep Work
 >* Step 1: First and foremost go to https://nodejs.org/en/  to download node.
-  - Click the big green button that contains the letters: LTS (the one recommended for most users)
+** Click the big green button that contains the letters: LTS (the one recommended for most users)
 Save
 Open that file
 Complete the setup process > Finish. It will download in the background
