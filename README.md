@@ -11,7 +11,7 @@
 
 
 # Submitting your work
->* Step 1: `git add .` or `git add "file1 file2 file 3"` This adds your updated files to the repo.
+>* Step 1: `git add .` or `git add filename1 filename2 filename3` This adds your updated files to the repo.
 
 >* Step 2: `git status` This will check the current status of your repo, make sure all files are green (ready to be committed).
 
