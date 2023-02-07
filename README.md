@@ -1,4 +1,4 @@
-# How to Git
+# Git Basics
 
 Cool
 
