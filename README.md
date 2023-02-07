@@ -1,4 +1,4 @@
-# Git Basics
+# How to Git
 
 # First Steps
 
