@@ -4,13 +4,13 @@
 >* Step 1: First and foremost go to https://nodejs.org/en/  to download node.
 >
 >   * Click the big green button that contains the letters: LTS (the one recommended for most users)
-Save
-Open that file
-Complete the setup process > Finish. It will download in the background
+>   * Save
+>   * Open that file
+>   * Complete the setup process > Finish. It will download in the background
 >* Step 2: In GitHub, go to the repository you want to clone.
-Click the green Code button
-Download ZIP
-Save the file
+>   * Click the green Code button
+>   * Download ZIP
+>   * Save the file
 >* Step 3: Open Visual Studio Code (or close it and restart if you had it open prior to downloading node).
 In the top left-hand corner of the screen, click File > Open Folder… > select the folder you just saved > Open
 At the top of the screen, select Terminal > New Terminal
