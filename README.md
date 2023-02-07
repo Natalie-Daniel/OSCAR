@@ -1,18 +1,6 @@
-# How to Git
+# Git Basics
 
 # First Steps
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -22,16 +10,9 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 # Submitting your work
+> Step 1:
+
+> Step 2:
+
+> Step 3:
