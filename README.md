@@ -1,6 +1,6 @@
 # Git Basics
 
-# First Steps
+# Prep Work
 
 
 
