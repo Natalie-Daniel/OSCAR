@@ -29,7 +29,7 @@
 
 >* Step 1: Copy Repo URL and use the `git clone <Repo URL goes here>` command to create a directory for git command use. Don't include the <> when cloning.
 
->* Step 2: `cd` into the correct directory where your git clone created the directory. The directory name should be the same as the clone you just created.
+>* Step 2: `cd directoryname` into the correct directory where your git clone created the directory. The directoryname should be the same as the clone you just created.
 
 >* Step 3: Use `git status` to see which files have been edited and can be added for commit.
 
