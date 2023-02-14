@@ -16,10 +16,9 @@
 >   * In the top left-hand corner of the screen, click File > Open Folder… > select the folder you just saved > Open
 >   * At the top of the screen, select Terminal > New Terminal. 
 >   * A new terminal at the bottom of the screen will pop up. All the way to the right, there is a plus sign with a drop down arrow option. Click the arrow > select 
-
-Git Bash
 >   * A Git Bash option will appear below a powershell option. Delete the powershell terminal by clicking the trashcan. 
->   * In the command line, type: npm i express. This downloads the packages you will need. 
+
+>* Step 4: In the command line, type: npm i express. This downloads the packages you will need. 
 >   * Run the command: node app.js
 >   * The above command allows you to go to your web browser, type in your local host and port number (I’d start with localhost:3000), and see your app. 
 >   * You are now ready to clone.
