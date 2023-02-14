@@ -2,23 +2,23 @@
 
 # Prep Work
 >* Step 1: First and foremost go to https://nodejs.org/en/  to download node.
->
->   * Click the big green button that contains the letters: LTS (the one recommended for most users)
->   * Save
->   * Open that file
->   * Complete the setup process > Finish. It will download in the background
+
+   * Click the big green button that contains the letters: LTS (the one recommended for most users)
+   * Save
+   * Open that file
+   * Complete the setup process > Finish. It will download in the background
 >* Step 2: In GitHub, go to the repository you want to clone.
->   * Click the green Code button
->   * Download ZIP
->   * Save the file
+   * Click the green Code button
+   * Download ZIP
+   * Save the file
 >* Step 3: Open Visual Studio Code (or close it and restart if you had it open prior to downloading node).
->   * In the top left-hand corner of the screen, click File > Open Folder… > select the folder you just saved > Open
->   * At the top of the screen, select Terminal > New Terminal. 
->   * A new terminal at the bottom of the screen will pop up. All the way to the right, there is a plus sign with a drop down arrow option. Click the arrow > select Git Bash
->   * A Git Bash option will appear below a powershell option. Delete the powershell terminal by clicking the trashcan. 
->   * In the command line, type: npm i express. This downloads the packages you will need. 
->   * Run the command: node app.js
->   * The above command allows you to go to your web browser, type in your local host and port number (I’d start with localhost:3000), and see your app. 
+   * In the top left-hand corner of the screen, click File > Open Folder… > select the folder you just saved > Open
+   * At the top of the screen, select Terminal > New Terminal. 
+   * A new terminal at the bottom of the screen will pop up. All the way to the right, there is a plus sign with a drop down arrow option. Click the arrow > select Git Bash
+   * A Git Bash option will appear below a powershell option. Delete the powershell terminal by clicking the trashcan. 
+   * In the command line, type: npm i express. This downloads the packages you will need. 
+   * Run the command: node app.js
+   * The above command allows you to go to your web browser, type in your local host and port number (I’d start with localhost:3000), and see your app. 
 >* Step 4: You are now ready to clone.
 
 
