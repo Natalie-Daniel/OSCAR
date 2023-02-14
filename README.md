@@ -29,9 +29,11 @@
 
 # Cloning and Navigating 
 
->* Step 1: Copy Repo URL and use the `git clone <Repo URL goes here>` command to create a directory for git command use. Don't include the <> when cloning.
+>* Step 1: Copy Repo URL and use the `git clone <Repo URL goes here>` command to create a directory for git command use. 
+>   * Don't include the <> when cloning.
 
->* Step 2: `cd directoryname` into the correct directory where your git clone created the directory. The directoryname should be the same as the clone you just created.
+>* Step 2: `cd directoryname` into the correct directory where your git clone created the directory. 
+>   * The directoryname should be the same as the clone you just created.
 
 >* Step 3: Use `git status` to see which files have been edited and can be added for commit.
 
@@ -45,7 +47,8 @@
 
 >* Step 2: `git status` This will check the current status of your repo, make sure all files are green (ready to be committed).
 
->* Step 3: `git commit -m “your message goes here”` This will commit your updated repo. Make sure to surround your message with " ".
+>* Step 3: `git commit -m “your message goes here”` This will commit your updated repo. 
+>   * Make sure to surround your message with " ".
 
 >* Step 4: `git push` This command will push your updated code directly to the repository.
 
