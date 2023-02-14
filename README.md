@@ -40,7 +40,8 @@
 
 
 # Submitting your work
->* Step 1: `git add .` or `git add filename1 filename2 filename3` This adds your updated files to the repo. filename1,2,3 are where you should type the name of the files to add. NOTE: `git add .` adds all files to the repo, be cautious of this when using this option.
+>* Step 1: `git add .` or `git add filename1 filename2 filename3` This adds your updated files to the repo. filename1,2,3 are where you should type the name of the files to add. 
+>   * NOTE: `git add .` adds all files to the repo, be cautious of this when using this option.
 
 >* Step 2: `git status` This will check the current status of your repo, make sure all files are green (ready to be committed).
 
