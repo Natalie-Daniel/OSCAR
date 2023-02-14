@@ -50,5 +50,5 @@
 
 # Additional Links that might be useful
 >* https://git-scm.com/docs --> Git Documentation
->* https://www.w3schools.com/git/ --> Git Basics
+>* https://www.w3schools.com/git/ --> Git Tutorials
 >* https://gitforwindows.org/ --> Git Download
